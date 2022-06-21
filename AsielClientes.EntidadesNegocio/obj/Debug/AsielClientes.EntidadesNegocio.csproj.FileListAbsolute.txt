@@ -1,0 +1,5 @@
+C:\Proyectos\Asiel_Proveedores\AsielClientes.EntidadesNegocio\bin\Debug\AsielClientes.EntidadesNegocio.dll
+C:\Proyectos\Asiel_Proveedores\AsielClientes.EntidadesNegocio\bin\Debug\AsielClientes.EntidadesNegocio.pdb
+C:\Proyectos\Asiel_Proveedores\AsielClientes.EntidadesNegocio\obj\Debug\AsielClientes.EntidadesNegocio.csproj.CoreCompileInputs.cache
+C:\Proyectos\Asiel_Proveedores\AsielClientes.EntidadesNegocio\obj\Debug\AsielClientes.EntidadesNegocio.dll
+C:\Proyectos\Asiel_Proveedores\AsielClientes.EntidadesNegocio\obj\Debug\AsielClientes.EntidadesNegocio.pdb

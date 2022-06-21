@@ -1,0 +1,13 @@
+C:\Proyectos\Asiel_Proveedores\AsielClientes.ReglasNegocio\obj\Debug\AsielClientes.ReglasNegocio.csproj.CoreCompileInputs.cache
+C:\Proyectos\Asiel_Proveedores\AsielClientes.ReglasNegocio\bin\Debug\AsielClientes.ReglasNegocio.dll
+C:\Proyectos\Asiel_Proveedores\AsielClientes.ReglasNegocio\bin\Debug\AsielClientes.ReglasNegocio.pdb
+C:\Proyectos\Asiel_Proveedores\AsielClientes.ReglasNegocio\bin\Debug\AsielClientes.DatosNegocio.dll
+C:\Proyectos\Asiel_Proveedores\AsielClientes.ReglasNegocio\bin\Debug\AsielClientes.EntidadesNegocio.dll
+C:\Proyectos\Asiel_Proveedores\AsielClientes.ReglasNegocio\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Proyectos\Asiel_Proveedores\AsielClientes.ReglasNegocio\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Proyectos\Asiel_Proveedores\AsielClientes.ReglasNegocio\bin\Debug\AsielClientes.DatosNegocio.pdb
+C:\Proyectos\Asiel_Proveedores\AsielClientes.ReglasNegocio\bin\Debug\AsielClientes.EntidadesNegocio.pdb
+C:\Proyectos\Asiel_Proveedores\AsielClientes.ReglasNegocio\obj\Debug\AsielClientes.ReglasNegocio.csprojAssemblyReference.cache
+C:\Proyectos\Asiel_Proveedores\AsielClientes.ReglasNegocio\obj\Debug\AsielClientes.ReglasNegocio.csproj.CopyComplete
+C:\Proyectos\Asiel_Proveedores\AsielClientes.ReglasNegocio\obj\Debug\AsielClientes.ReglasNegocio.dll
+C:\Proyectos\Asiel_Proveedores\AsielClientes.ReglasNegocio\obj\Debug\AsielClientes.ReglasNegocio.pdb
